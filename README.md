@@ -1,2 +1,2 @@
 # DatasetPapas
-un dataset de diferentes variedades de papas del peru
+Data set no uniforme de diferentes variedades de papas del peru
